@@ -13,4 +13,5 @@ public class AnotherStudent
 	{
 		c.mathCheat();
 	}
+
 }

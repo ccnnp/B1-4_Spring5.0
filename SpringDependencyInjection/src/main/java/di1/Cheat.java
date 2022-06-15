@@ -12,5 +12,4 @@ public class Cheat
 		{
 			System.out.println("Microxerox is ready to pass");
 		}
-
 }

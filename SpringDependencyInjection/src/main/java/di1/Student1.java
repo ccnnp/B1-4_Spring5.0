@@ -4,6 +4,7 @@ public class Student1
 {
 	//Dependency in the form of objects
 			Cheat c;
+		
 			public void setC(Cheat c) {
 				this.c = c;
 			}
@@ -12,5 +13,4 @@ public class Student1
 			{
 				c.mathCheat();
 			}
-
 }
